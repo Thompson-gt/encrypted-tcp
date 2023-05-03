@@ -1,6 +1,10 @@
-\server-files\*
-\client/files\*
-\env\*
+\server-files
+\client/files
+\env
 todo.txt
 \log-files
 \.env
+#to ignore all of the image files for testing
+*.png
+*.jpeg
+*.jpg
