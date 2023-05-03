@@ -1,5 +1,5 @@
-.\server-files
-.\client/files
+.\server-files\*
+.\client/files\*
 .\env\*
 .todo.txt
 .\log-files
